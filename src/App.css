@@ -1,0 +1,13 @@
+.books {
+  padding: 20px;
+  list-style: none;
+  background-color: rgb(210, 200, 186);
+  margin: 10px;
+  transition: 0.25s;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.books:hover {
+  box-shadow: 0px 0px 10px rgb(44, 42, 42);
+}
